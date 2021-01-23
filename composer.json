@@ -1,8 +1,8 @@
 {
-    "name": "emvee-it/tdd-boilerplace",
+    "name": "emvee-it/tdd-boilerplate",
     "description": "A Magento 2 boilerplate to start developing a new module using TDD",
     "type": "magento2-module",
-    "version": "1.0.0",
+    "version": "0.0.1",
     "license": [
         "Apache-2.0"
     ],
